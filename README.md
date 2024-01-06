@@ -1,4 +1,4 @@
-### Hi there 👋I'm @Venka7903
+### Hi there 👋I'm @Venkat7903
 
 - 🔭 I’m currently working on react projects
 - 🌱 I’m currently learning FullStack development
