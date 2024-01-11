@@ -2,6 +2,6 @@
 
 - 🔭 I’m currently working on react projects
 - 🌱 I’m currently learning FullStack development
-- 👯 I’m looking for internships
+- 👯 I’m currently looking for internships
 
 
