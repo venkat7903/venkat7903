@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Venkat7903</h1>
+   <h1 align="center">Hi 👋, I'm Venkat7903</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat7903&label=Profile%20views&color=0e75b6&style=flat" alt="venkat7903" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat7903" alt="venkat7903" /></a> </p>
 
-- 🔭 I have recently developed  [NxtWatch](https://github.com/venkat7903/Venkats-Nxt-Watch)
+- 🔭 I have recently developed  [NxtWatch](https://github.com/venkat7903/Venkats-Nxt-Watch), [NxtWatch](https://github.com/venkat7903/Venkats-Nxt-Watch), 
 
 - 🌱 I’m currently learning **FullStack**
 
